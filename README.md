@@ -1,7 +1,7 @@
 # PHP-ChatBaseSDK
 ### PHP ChatBase SDK - Open Source Social &amp; Mobile Messenger
 
-# Features
+## Features
 1. Login, Signup, Forgot password (with email verification).
 2. Quick Login like in Facebook and Instagram (this means app remembers that you had logged in, so you only have enter password to login again).
 3. Indicates that users exists as you type username when signing up.
