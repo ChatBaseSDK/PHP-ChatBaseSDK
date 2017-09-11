@@ -2,20 +2,20 @@
 ### PHP ChatBase SDK - Open Source Social &amp; Mobile Messenger
 
 ## Features
-1. Login, Signup, Forgot password (with email verification).
-2. Quick Login like in Facebook and Instagram (this means app remembers that you had logged in, so you only have enter password to login again).
-3. Indicates that users exists as you type username when signing up.
-4. About, Developer, Help, 404, No such user, No such group page.
-5. AJAX used almost everywhere (From login to logout).
-6. Follow, Unfollow, Recommend, Profile views, Block, Unblock.
-7. Like, Comment (Sticker, Text, Image), Share, Unshare, Remove share, Tag, Untag, Remove tag, Copy post link, Delete post, Edit post, Open post.
-8. Post Text, Image (with filters), Video, Audio, Link, Document, Location with emojis, Font size, Tag, mentions, hashtags and location.
-9. Time ago format used everywhere.
+1. Login, Signup, Forgot password and user email verification.
+2. Quick Login with cookies. App remembers that you had logged in, so you only have enter password to login again.
+3. Sign up form indicates that users exists as you are typing.
+4. Welcome, About, Developer, Help, 404, No such user, No such group extension pages.
+5. AJAX based requests.
+6. Users options: Follow, Unfollow, Recommend, Profile views, Block and Unblock options for users.
+7. Posts options: Like, Comment with tex, sticker or image, Share, Unshare, Remove share, Tag, Untag, Remove tag, Copy post link, Delete post, Edit post and Open post.
+8. You can post Text, Image with and without filters, Video, Audio, Link, Document, Location with emojis, Font size, Tag, mentions, hashtags and location.
+9. Time ago format like major social networks.
 10. Custom Video and Audio player.
-11. Add tags to describe yourself much more.
-12. Edit your profile (From username, Bio, social links to tags).
-13. Get suggestions on whome to follow (you can also refresh suggestions).
-14. Know what are some of the most popular hashtags.
+11. Add tags to describe yourself and be found by them.
+12. Profile edition from username, Bio, social links to tags.
+13. Get suggestions on whome to follow with refresh suggestions.
+14. Real time most popular hashtags.
 15. Mutual likes and comments as in Facebook (When you see a post, if your followings have liked or commented on the post, then app re-arranges post's likers and commenters in a way that your followings get the first priority).
 eg. F1, F2, F3 and 230 others liked where F = Following.
 16. Shows images in Theatre mode.
@@ -25,7 +25,7 @@ eg. F1, F2, F3 and 230 others liked where F = Following.
 20. Message emoji, Text, Image, Sticker.
 21. Delete conversation, unsend all your messages, edit conversation title and get all info about the conversation.
 22. Create group conversation with your followings.
-23. Change admin (if you're an admin), leave group, remove member, change group avatar, add members and get more info about the group.
+23. Change group admin (if you're an admin), leave group, remove member, change group avatar, add members and get more info about the group.
 24. Bookmark the post if you liked it.
 25. Make a user favourite if you like him/her.
 26. Create a group with your followings.
